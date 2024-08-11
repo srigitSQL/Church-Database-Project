@@ -56,5 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: [Your Email](mailto:youremail@example.com)
+- LinkedIn:www.linkedin.com/in/srimanth-reddy- 
